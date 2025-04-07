@@ -16,13 +16,13 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/chatunitycenter/chatunity-bot",
+"homepage": "https://github.com/chatunitycenter/whatsapp-spam-italia",
 "author": {
 "name": "chatunity"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/chatunitycenter/chatunity-bot.git"
+"url": "git+https://github.com/chatunitycenter/whatsapp-spam-italia.git"
 },
 "bugs": {
 "url": "https://github.com/chatunitycenter/chatunity-bot/issues"

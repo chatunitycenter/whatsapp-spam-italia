@@ -140,41 +140,7 @@
 
 ---
 
-## 🔄 **Attivazione 24/7 (Termux)**
-
-<details>
-  <summary><b>Clicca qui per vedere i passaggi</b></summary>
-
-1. Installa **PM2**:
-   ```bash
-   npm i -g pm2
-   ```
-
-2. Avvia il bot:
-   ```bash
-   pm2 start index.js && pm2 save && pm2 logs
-   ```
-
-</details>
-
----
-
-## 📂 **Risorse Utili**
-
-- **Dashboard:** [Visita qui](https://github.com/chatunity-bot)
-- **Canale WhatsApp:** [Unisciti qui](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
-- **Contatto:** [Scrivi qui](https://wa.me/393515533859)
-- **Collaborazioni:** [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
-
----
-
 ## 📜 **Licenza**
 © **ChatUnity-Bot**. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
----
 
-<p align="center">
-  <strong>🌟 Supporta il progetto con una Stella su GitHub! 🌟</strong>
-</p>
-
----
