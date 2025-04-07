@@ -307,7 +307,7 @@ function _0x5b83() {
         'now',
         'command',
         'https://i.ibb.co/PvKDcRKW/alyaxroshidere-jpeg.jpg',
-        '120363259442839354@newsletter',
+        '120363298520077920@newsletter',
         'uptime',
         'lhOtP',
         'LAdVG',
